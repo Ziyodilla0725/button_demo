@@ -1,0 +1,21 @@
+.imgbir{
+    width: 465px;
+    height: 450px;
+    display: flex;
+    text-align: center;
+}
+
+.imgikki{
+    width: 465px;
+    height: 250px;
+    display: flex;
+    text-align: center;
+}
+
+
+.contenr{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 200px;
+}
